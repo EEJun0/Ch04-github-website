@@ -1,37 +1,150 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/EEJun0/Ch04-github-website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<html>
+<head><meta  charset="UTF-8"></head>
+<body>
+<center>
+<div id="head">
+<table width="1000" border="0" cellpadding="0" cellspacing="0">
+<tr>
+	<td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR9PnKT_awy0RtL5MHZJs0MecB2z-CMKidwBQ&usqp=CAU" width="1000" height="100"></td>
+</tr>
+<tr>
+	<td align="center"><h1>國立聯合大學電子系陳建君</h1></td>
+</tr>
+</table>
+</div>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<div id="nav1"><br>
+<table width="1000" border="0" cellpadding="0" cellspacing="1" bgcolor="#999999">
+<tr>
+	<td bgcolor="#FFFFFF"><a href="">電影</a>　＞　
+	<a href="">漫威電影宇宙系列</a>
+	</td>
+</tr>
+</table>
+</div>
 
-### Markdown
+<div id="cont"><br/>
+<table border="0" width="1000" cellpadding="0" cellspacing="1" bgcolor="#999999">
+<tr>
+	<td align="center" bgcolor="#F0F000" colspan="2" valign="center"><font size="36"><b>漫威電影宇宙系列</b</font></td>
+</tr>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<tr>
+	<td width="191" bgcolor="#FFFFFF" valign="top">
+	<table width="181" cellpadding="0" cellspacing="1" >
+<tr><br><br>
+<h2><b>最喜歡的演員</b></h2><br>
+<td width="171">鋼鐵人:小勞勃·道尼
+<img src="https://upload.wikimedia.org/wikipedia/zh/8/84/Robert_Downey_Jr_as_Iron_Man.jpg" width="140" height="220"></td>
+<tr>
 
-```markdown
-Syntax highlighted code block
+<tr>
+<td width="171">美國隊長:克里斯·伊凡 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Chris_Evans_in_2019.jpg/330px-Chris_Evans_in_2019.jpg" width="160" height="220"></td>
+<tr>
 
-# Header 1
-## Header 2
-### Header 3
+</table>
+</td>
 
-- Bulleted
-- List
+<td width="806"  bgcolor="#FFFFFF" valign="top">
+<table width="800" cellpadding="0" cellspacing="1">
+<tr>
+<td width="145"><img src="https://img.ruten.com.tw/s2/9/06/02/21918350402050_275.jpg" width="145" height="200"></td>
+<td width="145"><img src="https://upload.wikimedia.org/wikipedia/zh/a/a2/Incredible_hulk_2008_poster.jpg" width="145" height="200"></td>
+<td width="145"><img src="https://upload.wikimedia.org/wikipedia/zh/e/ed/Iron_Man_2_poster.jpg" width="145" height="200"></td>
+<td width="145"><img src="https://upload.wikimedia.org/wikipedia/zh/f/fc/Thor_poster.jpg" width="145" height="200"></td>
+<td width="145"><img src="https://upload.wikimedia.org/wikipedia/zh/3/37/Captain_America_The_First_Avenger_poster.jpg" width="145" height="200"></td><br>
+<tr>
+<tr>
+<td ><a href="https://zh.wikipedia.org/wiki/%E9%90%B5%E7%94%B2%E5%A5%87%E4%BF%A0_(%E9%9B%BB%E5%BD%B1)" target="_blank">鋼鐵人</a></td>
+<td ><a href="https://zh.wikipedia.org/wiki/%E7%84%A1%E6%95%B5%E6%B5%A9%E5%85%8B" target="_blank">無敵浩克</a></td>
+<td ><a href="https://zh.wikipedia.org/wiki/%E9%8B%BC%E9%90%B5%E4%BA%BA2" target="_blank">鋼鐵人2</a></td>
+<td ><a href="https://zh.wikipedia.org/wiki/%E9%9B%B7%E7%A5%9E%E7%B4%A2%E7%88%BE_(%E9%9B%BB%E5%BD%B1)" target="_blank">雷神索爾</a></td>
+<td ><a href="https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%9C%8B%E9%9A%8A%E9%95%B7_(%E9%9B%BB%E5%BD%B1)" target="_blank">美國隊長</a></td>
+<tr>
 
-1. Numbered
-2. List
+<tr>
+<td width="145"><img src="https://upload.wikimedia.org/wikipedia/zh/1/18/%E5%BE%A9%E4%BB%87%E8%80%85%E8%81%AF%E7%9B%9F.jpg" width="145" height="200"></td>
+<td width="145"><img src="https://upload.wikimedia.org/wikipedia/zh/5/51/Iron_man_3_poster_250.jpg" width="145" height="200"></td>
+<td width="145"><img src="https://upload.wikimedia.org/wikipedia/zh/7/7e/Thor_-_The_Dark_World_poster.jpg" width="145" height="200"></td>
+<td width="145"><img src="https://upload.wikimedia.org/wikipedia/zh/c/c4/Captain_America_The_Winter_Soldier_3D.jpg" width="145" height="200"></td>
+<td width="145"><img src="https://upload.wikimedia.org/wikipedia/zh/e/ed/Guardians_of_the_galaxy_ver2.jpg" width="145" height="200"></td><br>
+<tr>
+<tr>
+<td ><a href="https://zh.wikipedia.org/wiki/%E5%BE%A9%E4%BB%87%E8%80%85%E8%81%AF%E7%9B%9F" target="_blank">復仇者聯盟</a></td>
+<td ><a href="https://zh.wikipedia.org/wiki/%E9%8B%BC%E9%90%B5%E4%BA%BA3" target="_blank">鋼鐵人3</a></td>
+<td ><a href="https://zh.wikipedia.org/wiki/%E9%9B%B7%E7%A5%9E2%EF%BC%9A%E9%BB%91%E6%9A%97%E4%B8%96%E7%95%8C" target="_blank">雷神索爾2：黑暗世界</a></td>
+<td ><a href="https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%9C%8B%E9%9A%8A%E9%95%B72%EF%BC%9A%E9%85%B7%E5%AF%92%E6%88%B0%E5%A3%AB" target="_blank">美國隊長2：酷寒戰士</a></td>
+<td ><a href="https://zh.wikipedia.org/wiki/%E9%93%B6%E6%B2%B3%E6%8A%A4%E5%8D%AB%E9%98%9F_(%E7%94%B5%E5%BD%B1)" target="_blank">星際異攻隊</a></td>
+<tr>
 
-**Bold** and _Italic_ and `Code` text
+<tr>
+<td width="145"><img src="https://upload.wikimedia.org/wikipedia/zh/1/1b/Avengers_Age_of_Ultron.jpg" width="145" height="200"></td>
+<td width="145"><img src="https://upload.wikimedia.org/wikipedia/zh/2/21/Ant-Man_Poster.jpg" width="145" height="200"></td>
+<td width="145"><img src="https://upload.wikimedia.org/wikipedia/zh/a/ad/Captain_America_Civil_War_Poster.jpg" width="145" height="200"></td>
+<td width="145"><img src="https://upload.wikimedia.org/wikipedia/zh/8/8d/Doctor_Strange_2016_Poster.jpg" width="145" height="200"></td>
+<td width="145"><img src="https://upload.wikimedia.org/wikipedia/zh/6/6b/Guardians_of_the_Galaxy_Vol._2_Poster.jpg" width="145" height="200"></td>
+<tr>
+<tr>
+<td ><a href="https://zh.wikipedia.org/wiki/%E5%BE%A9%E4%BB%87%E8%80%85%E8%81%AF%E7%9B%9F2%EF%BC%9A%E5%A5%A7%E5%89%B5%E7%B4%80%E5%85%83" target="_blank">復仇者聯盟2：奧創紀元</a></td>
+<td >　<a href="https://zh.wikipedia.org/wiki/%E8%9F%BB%E4%BA%BA_(%E9%9B%BB%E5%BD%B1)" target="_blank">蟻人</a></td>
+<td ><a href="https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%9B%BD%E9%98%9F%E9%95%BF3" target="_blank">美國隊長3：英雄內戰</a></td>
+<td ><a href="https://zh.wikipedia.org/wiki/%E5%A5%87%E7%95%B0%E5%8D%9A%E5%A3%AB_(%E9%9B%BB%E5%BD%B1)" target="_blank">奇異博士</a></td>
+<td ><a href="https://zh.wikipedia.org/wiki/%E9%8A%80%E6%B2%B3%E5%AE%88%E8%AD%B7%E9%9A%8A2" target="_blank">星際異攻隊2</a></td>
+<tr>
 
-[Link](url) and ![Image](src)
-```
+<tr>
+<td width="145"><img src="https://upload.wikimedia.org/wikipedia/zh/f/f9/Spider-Man_Homecoming_poster.jpg" width="145" height="200"></td>
+<td width="145"><img src="https://upload.wikimedia.org/wikipedia/zh/7/78/Thor_Ragnar%C3%B6k_Poster.jpg" width="145" height="200"></td>
+<td width="145"><img src="https://upload.wikimedia.org/wikipedia/zh/3/31/Black_Panther_2018_Poster.jpg" width="145" height="200"></td>
+<td width="145"><img src="https://upload.wikimedia.org/wikipedia/zh/8/8a/Avengers_Infinity_War_Poster.jpg" width="145" height="200"></td>
+<td width="145"><img src="https://upload.wikimedia.org/wikipedia/zh/5/51/Ant-Man_and_the_Wasp.jpg" width="145" height="200"></td><br>
+<tr>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<tr>
+<td ><a href="https://zh.wikipedia.org/wiki/%E8%9C%98%E8%9B%9B%E4%BA%BA%EF%BC%9A%E8%BF%94%E6%A0%A1%E6%97%A5" target="_blank">蜘蛛人：返校日</a></td>
+<td ><a href="https://zh.wikipedia.org/wiki/%E9%9B%B7%E7%A5%9E%E7%B4%A2%E7%88%BE3%EF%BC%9A%E8%AB%B8%E7%A5%9E%E9%BB%83%E6%98%8F" target="_blank">雷神索爾3：諸神黃昏</a></td>
+<td >　<a href="https://zh.wikipedia.org/wiki/%E9%BB%91%E8%B1%B9_(%E9%9B%BB%E5%BD%B1)" target="_blank">黑豹</a></td>
+<td ><a href="https://zh.wikipedia.org/wiki/%E5%BE%A9%E4%BB%87%E8%80%85%E8%81%AF%E7%9B%9F3%EF%BC%9A%E7%84%A1%E9%99%90%E4%B9%8B%E6%88%B0" target="_blank">復仇者聯盟：無限之戰</a></td>
+<td ><a href="https://zh.wikipedia.org/wiki/%E8%9F%BB%E4%BA%BA%E8%88%87%E9%BB%83%E8%9C%82%E5%A5%B3" target="_blank">蟻人與黃蜂女</a></td>
+<tr>
+<tr>
+<td width="145"><img src="https://upload.wikimedia.org/wikipedia/zh/2/2b/Captain_Marvel_Poster.jpg" width="145" height="200"></td>
+<td width="145"><img src="https://upload.wikimedia.org/wikipedia/zh/7/76/Avengers_Endgame_Poster.jpg" width="145" height="200"></td>
+<td width="145"><img src="https://upload.wikimedia.org/wikipedia/zh/b/bd/Spider-Man_Far_From_Home_poster.jpg" width="145" height="200"></td>
+<tr>
 
-### Jekyll Themes
+<tr>
+<td ><a href="https://zh.wikipedia.org/wiki/%E9%A9%9A%E5%A5%87%E9%9A%8A%E9%95%B7_(%E9%9B%BB%E5%BD%B1)" target="_blank">驚奇隊長</a></td>
+<td ><a href="https://zh.wikipedia.org/wiki/%E5%BE%A9%E4%BB%87%E8%80%85%E8%81%AF%E7%9B%9F%EF%BC%9A%E7%B5%82%E5%B1%80%E4%B9%8B%E6%88%B0" target="_blank">復仇者聯盟：終局之戰</a></td>
+<td ><a href="https://zh.wikipedia.org/wiki/%E8%9C%98%E8%9B%9B%E4%BA%BA%EF%BC%9A%E9%9B%A2%E5%AE%B6%E6%97%A5" target="_blank">蜘蛛人：離家日</a></td>
+<tr>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/EEJun0/Ch04-github-website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+</table>
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</td>
+</tr>
+</table>
+</div>
+<div id="bottom">
+  <table width="1000" border="0" cellpadding="0" cellspacing="1" bgcolor="#999999">
+    <tr>
+      <td align="center" bgcolor="#FFFFFF"><br />
+        <a href="index.html">&copy版權所有。國立聯合大學電子系。禁止轉貼<br />
+          <br />
+        </a></td>
+    </tr>
+  </table>
+</div>
+<br />
+<br />
+<div id="foot">
+  <table width="1000" border="0" cellpadding="0">
+    <tr>
+      <td align="center"></td>
+    </tr>
+  </table>
+</div>
+</body>
+</html>
